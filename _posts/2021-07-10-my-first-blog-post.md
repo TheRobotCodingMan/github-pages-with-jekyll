@@ -1,5 +1,5 @@
 ---
-title: "My First Website"
+title: "Your blog post title"
 date: 2021-7-10
 ---
 
