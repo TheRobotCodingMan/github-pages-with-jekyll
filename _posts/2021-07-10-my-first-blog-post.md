@@ -1,5 +1,5 @@
 ---
-title: "My Website (second page)"
+title: "My First Website"
 date: 2021-7-10
 ---
 
